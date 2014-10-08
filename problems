@@ -1,0 +1,5 @@
+Q1- Given an array of numbers, arrange them in an alternate fashion such that every number is followed by a number of opposite sign. Also the order was to be maintained. If the count of negative numbers is more keep the extra at last in array and same for positive numbers.
+
+Example :
+Input: -3 -2 6 0 7 -1 -8
+Output: -3 6 -2 0 -1 7 -8
