@@ -1,0 +1,5 @@
+p1) print valid combinations of parentheses, given the number n
+e.g. n = 2 
+ o/p : ()(), (())
+
+
